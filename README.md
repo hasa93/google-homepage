@@ -1,2 +1,2 @@
 # google-homepage
-project by www.odinproject.com
+project link http://www.theodinproject.com/web-development-101/html-css?ref=lnav
